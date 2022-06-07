@@ -62,6 +62,10 @@ fields:
     default: ''
   hidden: false
   default: ''
+- name: galary
+  type: image_gallery
+  config: {}
+  label: galary
 - type: boolean
   name: show_news
   label: Show News?
