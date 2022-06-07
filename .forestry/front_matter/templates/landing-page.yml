@@ -9,6 +9,11 @@ fields:
   default: ''
   config:
     required: true
+- name: yyyyyyyyyyyyyyyy
+  type: image_gallery
+  config: {}
+  description: ytyy
+  label: yyyyyyyyyyyyyyyy
 - type: text
   label: Hero Heading
   name: heading
